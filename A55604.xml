@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeal to each individual member of the present Parliament and army in the case of John Poyntz aliàs Morris, Mary his wife, Isabella Smith, Leonard Darby and John Harris: who by the power, policy, treacherous insinuations, and scandalous suggestions of John Brown, Clerk of the House of Lords (who have combined with one Littleton) have been illegally imprisoned in four several prisons, by vertue of the Lords order, for the space of twenty months; and by the Lords fined and sentenced, without crime, without legal hearing, without evidence; not being suffered to enjoy the benefit of law or make their lawful defence, as by law they ought.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55604</idno>
+            <idno type="STC">Wing P3131C</idno>
+            <idno type="STC">ESTC R205396</idno>
+            <idno type="EEBO-CITATION">99825355</idno>
+            <idno type="PROQUEST">99825355</idno>
+            <idno type="VID">29736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2075:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeal to each individual member of the present Parliament and army in the case of John Poyntz aliàs Morris, Mary his wife, Isabella Smith, Leonard Darby and John Harris: who by the power, policy, treacherous insinuations, and scandalous suggestions of John Brown, Clerk of the House of Lords (who have combined with one Littleton) have been illegally imprisoned in four several prisons, by vertue of the Lords order, for the space of twenty months; and by the Lords fined and sentenced, without crime, without legal hearing, without evidence; not being suffered to enjoy the benefit of law or make their lawful defence, as by law they ought.</title>
+                  <author>Poyntz, John, fl. 1647-1650, attributed name. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Attributed by Wing to John Poyntz.</note>
+                  <note>Copy Lu torn, with some loss of text.</note>
+                  <note>Reproduction of the original in the Goldsmiths Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyntz, John, fl. 1647-1650.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:29736:1"/>
+            <head>An APPEAL to each individual Member of the preſent Parliament and Army, in the caſe of <hi>John Poyntz aliàs Morris, Mary</hi> his wife, <hi>Jſabella Smith, Leonard Darby</hi> and <hi>John Harris:</hi> Who by the Power, Policy, Treacherous Inſinuations, and Scandalous Suggeſtions of <hi>John Brown,</hi> Clerk of the Houſe of Lords (who have combined with one <hi>Littleton)</hi> hav<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been illegally Impriſoned in four ſeveral Priſons, by Vertue of the Lords Order, for the ſpace of twenty Months; and by the Lords fined and ſentenced, without Crime, with<g ref="char:EOLhyphen"/>out legal Hearing, without Evidence; not being ſuffered to enjoy the benefit of Law or make their lawful Defence, as by Law they ought.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>AS it is a known and approved maxime, That crimes are by ſo much the greater, by how much the greater the Perſons are that commit them; ſo it is as certain, that that injuſtice is by ſo much the more ſuperlatively great, which is perpetrated under pretext of doing Juſtice.</p>
+               <p>Sir, <hi>John Poyner alias Morris, &amp;c.</hi> hath been impriſoned by the Lords, for a pretended Forgery, upon the ſug<g ref="char:EOLhyphen"/>geſtion of <hi>John Brown,</hi> Clerk of the Houſe of Lords, and one <hi>William Littleton;</hi> upon whoſe complaint, the Lords contrary to the Great Charter (which ſayes, <hi>Noman ſhall be diſeized of his Freehold, Liberty, or Eſtate; nor be paſſed upon, ſave by the judgment of his Peers, or by the Law of the Land,)</hi> proceeded to judgment againſt the ſaid <hi>Poyntz alias Morris,</hi> was never brought to the Lords Bar, to anſwer to what was objected againſt him; by Vertue of which Sentence, the ſaid <hi>Poyntz alias Morris,</hi> and <hi>Mary</hi> his wife, <hi>Iſabella Smith, Leonard Darby,</hi> have remained priſoners ever ſince <hi>May</hi> was a twelvemonth; having an eſtate of above two thouſand pound <hi>per annum</hi> kept from him, by reaſon of the ſaid illegal Sentence.</p>
+               <p>That we have not been wanting in our endeavors, both to obtain our Freedoms, and clear our innocency, is apparent by our ſeveral Addreſſes made to the Houſe of Commons: the ſum of all our deſires being as followeth.</p>
+               <p>That foraſmuch, as it is apparently aggreeable to the Law of the Kingdom, That all Offenders are to be tryed for all ſuppoſed Crimes by a Judg ſworn, to proceed in an ordinary Court of Juſtice, according to Law, and a Jury of their equals ſworn to proceed according to evidence: And foraſmuch, as notwithſtanding all our endeavors, we could never obtain ſo-much Juſtice, as ſuch a legal Tryal, (being but that which Fellons or Murtherers may challenge, and do frequently enjoy:) but contrarily have been, and are deſtroyed by the Lords (who are deluded by Maſter <hi>Browns</hi> falſe ſuggeſtions.) That there<g ref="char:EOLhyphen"/>fore the houſe of Commons would be pleaſed to free us from our fines and impriſonment, by Vertue of the Lords Order. And that we might be brought unto a ſpeedy Tryal <hi>per pares,</hi> for all Crimes that can be laid unto our charge; that by the Law we might be acquitted or condemned.</p>
+               <p>Several Citizens having waited many days with our Petition, and delivered ſeveral Papers to the Members, deſiring a poſitive Reſolution; whether they would receive our Appeal or no. On Saturday <hi>November</hi> 1648. (Maſter <hi>Brown.</hi> having been a pretty ſeaſon in the Houſe, before the ſitting thereof,) our Appeal was read and referred to a Committee, whercof Maſter <hi>Prynne,</hi> (Maſter <hi>Browns</hi> ſpecial Friend, was to have the Charge,) by whoſe means, notwithſtanding multitudes of ſolicitations day after day, we could never get a Committee to ſit, but we are ſtill left to be deſtroyed by a mercileſs and unjuſt impriſonment.</p>
+               <p>Whereupon, ſeeing all Power and Authority perverted, and no poſſibility left for our deliverance, we were as perſons altogether without hope, until God was pleaſed to open a door and let in comfort, by the appearance of his Excellency <hi>Thomas</hi> Lord <hi>Fairfax,</hi> and the Forces under his Command, for the due execution of Juſtice and Relief of the Oppreſſed: From whoſe Declarations and Actions, we gathered encouragement, to repreſent our Grievances and Deſires formerly preſented to the Parliament, together with theſe following Articles, exhibited againſt Maſter <hi>John Erown;</hi> All which are ready to be made good by legal and competent Witneſs, when ever the ſaid Maſter <hi>John Brown,</hi> Clerk of the Houſe of Lords, ſhall be ſecured or called to account for the ſame.</p>
+            </div>
+            <div type="copy_of_articles">
+               <head>The Copy of the Articles exhibited to his Excellency <hi>Thomas</hi> Lord <hi>Fairfax,</hi> General, &amp;c. againſt <hi>John Brown,</hi> Clerk of the houſe of Lords.</head>
+               <p>
+                  <hi>IMprimis,</hi> He the ſaid <hi>John Brown,</hi> contrary to Law and a good Conſcience, moſt wickedly did combine and counſel one Sir <hi>Adam Littleton,</hi> who had laid claim to the Eſtate of one <hi>John Poyntz alias Morris,</hi> Eſquire; the ſaid <hi>Littleton</hi> having been ſeveral times overthrown by the ſaid <hi>Poyntz alias Morris, viz.</hi> By four ſeveral Offices in <hi>Eſſex</hi> and <hi>London,</hi> at he was found Heir apparent at Law to the ſaid Eſtate; although the Evidences and other Writings, by which his Anceſtors held and injoyed the ſaid Eſtate, be concealed and withheld. And poſſeſſion was given to the ſaid <hi>Poyntz alias Morris,</hi> ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ding to two Injunctions given by Sir <hi>Rowland Wansford</hi> of the Court of Wards, and Turnment made by the Tennants Farmers of the ſaid Eſtate, upon their knowledg, his Anceſtors injoying of the Eſtate above fifty yeers, and never in any <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er name to this day, but <hi>Poyntz alias Morris,</hi> ſince the 38 of <hi>Elizabeth.</hi> Notwithſtanding all which clear proofs, and many more, the which for brevity ſake, are not here inſerted, (did Councel) to bring the buſineſs into the Lords Houſe, promiſing and warranting the ſaid Eſtate unto him the ſaid Sir <hi>Adam Littleton:</hi> In order to which, he the ſaid <hi>John Brown</hi> cauſed the ſaid <hi>Poyntz alias Morris, Mary</hi> his wife, <hi>Leonard Darby, John Harris,</hi> and <hi>Iſabella Smith,</hi> to be ſent for before the Lords, and accuſed them with a pretended forgery of a Copy of an Act of Parliament, although the Copy of the ſaid Act was delivered to <hi>Leonard Darby,</hi> and <hi>Iſabella Smith,</hi> with Maſter <hi>Browns</hi> hand to it, by one Maſter <hi>William Hunt,</hi> 
+                  <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd under Clerk of the Houſe of Commons, and examined in Maſter <hi>Browns</hi> Office; and by Mr. <hi>Brown</hi> himſelf, ſince ac<g ref="char:EOLhyphen"/>knowledged, but ſince his ſaid Combination with Sir <hi>Adam Littleton</hi> denyed: And he the ſaid Maſter <hi>Brown,</hi> came to the <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ouſe of <hi>Poyntz alias Morris,</hi> and threatning, That if he met with him, he would make him come ſhort home.</p>
+               <p n="2">2. <hi>Item,</hi> in purſuance of the ends aforeſaid, he the ſaid <hi>John Brown,</hi> having upon his falſe accuſation, obtained an Order <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rom the Lords, for the apprehending of <hi>Poyntz alias Morris, Mary</hi> his wife, <hi>Leonard Derby, John Harris</hi> and <hi>Iſabella <gap reason="illegible: torn page" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>mith,</hi> came himſelf in perſon, together with one <hi>Frogmorton</hi> his man, and <hi>Littleton</hi> and others, about eleven, a clock in the night, to the houſe of <hi>Poyntz alias Morris;</hi> and he the ſaid Maſter <hi>Brown,</hi> gave command to the Conſtables to break open the doors of the houſe of the ſaid <hi>Poyntz alias Morris;</hi> and being asked by the Conſtables for his Warrant, Maſter <hi>Brown</hi> replyed, ſaying, I'll warrant you, but the Conſtables refuſed: whereupon, the ſaid Mr. <hi>Brown</hi> himſelf, and his fol<g ref="char:EOLhyphen"/>lowers, broken open three doors, with Bolts and Locks, and entered the houſe, and not finding the Copy of the Act with <gap reason="illegible: torn page" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hand to it; contrary to the Order of the Lords, ſeized upon all <hi>Poyntz alias Morris,</hi> his Evidences and other Writings, and <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ok of Accounts, wherein the Tennants had ſet their hands, and made their Aturnment according to Law, and gave them <hi>
+                     <gap reason="illegible: torn page" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>leton</hi> their Adverſary to read, ſaying, He was Clerk of the Parliament, and what he had done, he could anſwer; and to us day keepeth them, having no Commiſſion ſo to do, but his own will.</p>
+               <p n="3">3. <hi>Item,</hi> he the ſaid <hi>John Brown,</hi> having by vertue of the Lords Order, ſeized upon the perſons of <hi>Mary Poyntz alias Morris, Iſabella Smith,</hi> and kept them in cuſtody three weeks, before he brought them before the Lords, giving command <gap reason="illegible: torn page" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Keepers, That they ſhould not have a Copy of their Attachment; notwithſtanding the Lords Order, was immediate, and their perſons, to be brought forthwith before their Lordſhips.</p>
+               <p n="4">4. <hi>Item,</hi> the ſaid <hi>Iohn Brown</hi> did cauſe the ſaid <hi>Poyntz</hi> alias <hi>Morris</hi> to be taken forcibly out of his houſe, with drawn <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ords, threatning to be ſheathed in the guts of them that did reſiſt, and by vertue of the Lords Order put him under the <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>k Rod, from whence he the ſaid <hi>M. Brown</hi> removed him to the Kings Bench, and there entred an Action of a thouſand <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd againſt him, and declared in ten thouſand pound for pretended words that the ſaid <hi>Poyntz</hi> aliàs <hi>Morris</hi> his wife ſhould <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>k, but never brought him the ſaid <hi>Poyntz</hi> before the Lords to this day, to anſwer to what he had objected againſt him: <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he the ſaid Mr. <hi>Brown</hi> did conſtantly oppoſe <hi>Poyntz</hi> aliàs <hi>Morris</hi> his proceedings, and Petition delivered to the Lords, <gap reason="illegible: torn page" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhewed them to <hi>Littleton,</hi> ſo that no legall hearing could be had.</p>
+               <p n="5">5. <hi>Item,</hi> he the ſaid <hi>John Brown,</hi> having by vertue of the Lords Order, ſeized upon the perſons of <hi>Poyntz alias Morris,</hi> 
+                  <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y his wife, <hi>Leonard Darby, John Harris,</hi> and <hi>Iſabella Smith,</hi> he cauſed them to be committed cloſe priſoners to four <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>al priſons, <hi>viz. Kings Bench, Gatehouſe Weſtminſter, Ludgate, Poultrey Counter,</hi> where they all remain priſoners to day; and he moſt maliciouſly, and contrary to Law, and without any command, but his own will, having them thus in <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ance, went from priſon to priſon, threatning their reſpective Keepers, That if they kept them not cloſe priſoners, he <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ld make them loſe their places.</p>
+               <p n="6">6. <hi>Item,</hi> the ſaid Maſter <hi>Brown,</hi> at another time urged the Keepers, That the aforeſaid priſoners might be ſo locked up, <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t none might come at them; and being told, that they would be ſtarved for want of Bread, and eaten up with Lice, the <gap reason="illegible: torn page" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Maſter <hi>Brown</hi> replyed in words to this effect, ſaying, That if they did periſh they need take no notice of it, for it was <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>thing to them.</p>
+               <p n="7">7. <hi>Item,</hi> he the ſaid Maſter <hi>Brown,</hi> having denyed his own hand to the ſaid Copy, before by him confeſt, <hi>viz.</hi> in theſe <gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ds, Who dare deny it: In order whereunto, for the better varniſhing over of his moſt wicked practices, cauſed the ſaid Maſter <hi>Hunt,</hi> an under Clerk to the Houſe of Commons, who delivered the ſaid Copy with Maſter <hi>Browns</hi> hand to it, to <hi>Leonard Darby,</hi> and <hi>Iſabella Smith,</hi> to put in an negative anſwer in writing, and not <hi>viva voce,</hi> as by law he ought, <hi>viz.</hi> He did not remember the delivery of the Copy of the ſaid Act; whereupon, he the ſaid Maſter <hi>Brown,</hi> by his power and pre<g ref="char:EOLhyphen"/>valency with the Lords, got the ſaid Copy of the Act condemned, and <hi>Poyntz alias Morris, Mary</hi> his wife, <hi>Leonard Darby, John Harris,</hi> and <hi>Iſabella Smith,</hi> ſentenced and fined, although <hi>Poyntz alias Morris, Mary</hi> his wife, <hi>Leonard Darby, John Harris,</hi> and <hi>Iſabella Smith,</hi> were never ſuffered to make there lawful defence, in regard many of their Friends, and their Witneſſes, not daring to appear at the Lords Bar, for fear of Maſter <hi>Brown,</hi> in reſpect of his continual threats and flanders.</p>
+               <p n="8">8. <hi>Item,</hi> he the ſaid Maſter <hi>Brown,</hi> knowing his own guilt, fearing he thould not be able to delude the Lords to a beleif <gap reason="illegible: torn page" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his falſe and flanderous Accuſation, endeavored to ſubborn and hire Witneſſes, againſt <hi>Poyntz alias Morris, Leonard <gap reason="illegible: torn page" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arby,</hi> and <hi>Iſabella Smith:</hi> In order whereunto, he the ſaid <hi>John Brown,</hi> went unto one <hi>Godfrey Cade,</hi> who hath been a priſoner in the <hi>Fleet,</hi> and other places neer twenty yeers, and gave him one pound and five ſhillings, and promiſed, him five pounds more, with his inlargement, and other courteſies, provided he would make oath before the Lords, That he the ſaid <hi>Cade</hi> forged the ſaid Copy of an Act of Parliament, and counterfeited the ſaid <hi>Browns</hi> hand to it, for <hi>Leonard Darby,</hi> and <hi>Iſabella Smith.</hi> In order to which end, he the ſaid Maſter <hi>Brown,</hi> cauſed the ſaid <hi>Cade</hi> to be brought up to the Lords Houſe accordingly, as by the ſaid <hi>Cade</hi> was confoſt ſeveral times ſince, before divers ſufficient Witneſſes.</p>
+               <p n="9">9. <hi>Item,</hi> he the ſaid <hi>John Brown,</hi> hath from time to time, moleſted, ſtandered, and troubled all perſons and friends, that did at any time appear in the behalf of the ſaid <hi>Poyntz alias Morris, Mary</hi> his wife, <hi>Leonard Darby, John Harris,</hi> and <hi>Iſabella Smith.</hi>
+               </p>
+               <p n="10">10. <hi>Item,</hi> he the ſaid Maſter <hi>Brown,</hi> knowing and finding that Mr <hi>Audly,</hi> cheif Clerk and Maſter of the Treaſury of Records, in the Court of Wards, had delivered to <hi>Iſabella Smith,</hi> in the preſence of others, ſeveral Copies of Records, atteſted under his hand, found by his Clerks in his Treaſury at <hi>Weſtminſter,</hi> old and duſty, not to be read without ſweep<g ref="char:EOLhyphen"/>ing, whereby the Title of <hi>Morris</hi> to the ſaid Eſtate was cleared, and the Act of Parliament manifeſted, came to the ſaid M<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Audly</hi> and threatned him with the loſs of his place, if he ſhould dare to maintain any thing againſt him; and finding the ſaid Maſter <hi>Audly</hi> to perſiſt in the juſtification of himſelf, in the delivery of Copies to <hi>Iſabella Smith,</hi> concerning the Eſtate, of <hi>Poyntz alias Morris,</hi> be the ſaid Maſter <hi>Brown,</hi> cauſed the ſaid Maſter <hi>Audly</hi> to be brought to the Lords Bar, and endeavored to have him fined, and to loſe his place for the ſame.</p>
+               <p n="11">11. <hi>Item,</hi> the ſaid Maſter <hi>Brown</hi> felloniouſly hath cauſed all the ſaid Records lately remaining in the Treaſury of the Court of Wards, and in the Tower, concerning the Eſtate of <hi>Poyntz alias Morris,</hi> to be removed and delivered into his own cuſtody, and alſo the Copy of the Act with his own hand to it, delivered by Mr. <hi>Hunt,</hi> but then in the hand of Maſter <hi>Twiſden,</hi> a Councel for <hi>Poyntz alias Morris,</hi> which by Law is fellony, as appears by the Statute of the 8 of <hi>H.6 chap. 12.</hi> to remove, condemn, or cancel Records.</p>
+               <p n="12">12. <hi>Item,</hi> he the ſaid Mr. <hi>Brown</hi> hath unjuſtly and maliciouſly, upon a ſlanderous ſuggeſtion, cauſed one Mr. <hi>Pendred,</hi> who appeared in the buſineſs, to be impriſoned for pretended words, by vertue of a pretended Order of the Lords, directed by him, the ſaid Mr. <hi>Brown,</hi> to one Juſtice <hi>Manly</hi> of <hi>Weſtminſter,</hi> unto which Warrant of Commitment, the ſaid <hi>Pendred</hi> put in ſufficient bayl, before Sir <hi>Edward Powel,</hi> another Juſtice for <hi>Weſtminſter,</hi> and was releaſed by the ſaid Sir <hi>Edward Powel;</hi> the which Mr. <hi>Brown</hi> hearing, immediately went with others with him unto the ſaid Juſtice, Sir <hi>Edward Powel,</hi> and told him he would cauſe his Commiſſion to be taken from him, if he did not immediately cauſe the ſaid <hi>Pendred</hi> to be attached again, upon which, the ſaid Sir <hi>Edward Powel</hi> through fear of his power, did accordingly by vertue of a Warrant from Sir <hi>John Woollaſton,</hi> attach the ſaid <hi>Pendred</hi> in the City of <hi>London,</hi> the ſame day that he had taken bayl, and carried him back to the <hi>Gatehauſe Weſtminſter</hi> again, where he hath remained in priſon many months, to his total ruine of his Eſtate, and hazard of his life, by reaſon of much ſickneſs, occaſioned by his ſaid impriſonment.</p>
+               <p n="13">13. <hi>Item,</hi> after the ſaid <hi>Pendred</hi> had put in his Petition to the Lords, certifying them of his hard uſage, the ſaid Maſter <hi>Brown</hi> oppoſed it, and ſaid that his bayl was Knights of the Poſt; by whoſe power and prevalency in the Houſe of Lords, he the ſaid <hi>Pendred</hi> is ſtill kept in durance in the <hi>Gatehouſe,</hi> and his bayl cannot be admitted to clear and vindicate them<g ref="char:EOLhyphen"/>ſelves, of Mr. <hi>Browns</hi> falſe ſlanders and accuſations, by reaſon of his being protected by the Lords.</p>
+               <p n="14">14. <hi>Item,</hi> that though upon the Petition of <hi>Poyntz alias Morris, Mary</hi> his wife, <hi>Leonard Darby, John Harris,</hi> and <hi>Iſabella Smith,</hi> the Lords referred it to the Judges, to conſider and make their Report, Whether the ſaid <hi>Pendred</hi> and the reſt, might be releaſed from their impriſonment, in regard of the fines impoſed upon them by the Lords: Which Report was accordingly made by the Judges, that they might be releaſed from their impriſonment, notwithſtanding the ſines, in regard that the Order for their commitment, was not for any fine, but till the pleaſure of the Lords were farther ſignified: Upon which, the ſaid Mr. <hi>Brown,</hi> openly oppoſed their inlargement in the Houſe of Lords, by a Petition of his to the-Lords; and thereupon keepeth them ſtill in durance, and abſolutely refuſed to ſigne a Copy of the Judges Report made to the Lords, for their inlargement, whereby it might not be ſo authentike as otherwiſe it would.</p>
+               <p n="15">15. <hi>Item,</hi> he the ſaid <hi>John Brown,</hi> hath brought many vexations and cauſeleſs actious, upon many of the friends of <hi>Poyntz alias Morris,</hi> on purpoſe to heat them of from their appearing in his behalf, the better to keep the ſaid <hi>Pendred,</hi> and the <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in priſon, and from a tryal at Law.</p>
+               <p n="16">16. <hi>Item,</hi> that the ſaid <hi>John Brown,</hi> came to the houſe of Commons and endeavored to his utmoſt power, to hinder the Petition and Appeal of <hi>Poyntz alias Morris,</hi> and the reſt, &amp;<hi>c.</hi> from being delivered and read.</p>
+               <p n="17">17. <hi>Item,</hi> theſe and many other high crimes, miſdemeanors, and oppreſſions, have been committed by the ſaid <hi>John Brown,</hi> Clerk to the Houſe of Lords; which will be evidently proved by lawful and competent Witneſſes, when ever your Excellency ſhall pleaſe to appoint a Committee to receive the ſame, or otherwiſe as your Excellency ſhall think meet.</p>
+               <p>
+                  <hi>And having proceeded thus far, give us leave, (being thereto emboldened with the conſideration of our innocency, and his tyranny) to appeal to God, and all good men; and if there be any yet remaining, which have not made a covenant with Iniquity, whoſe bearts God hath kept upright in the purſuance of Juſtice: to ſuch we call and cry, and deſire them to hear us, from our ſeveral Cells of ſlavery: and as they expect the bleſſing of God upon their pro<g ref="char:EOLhyphen"/>ceedings, Let them as an evidence thereof, employ their power, to bring us to a Bar of Juſtice, to be tryed for all ſuppoſed Crimes laid to our charge. And although we finde the ſubtle and plauſible ſuggestions of Mr.</hi> Brown, <hi>to be of too great weight to delude you; yet we deſire this may be the touchſtone to try his truth by. If as he pretends we be really guilty of ſuch Crimes; we dare him in the ſight of God and good men, to bring us to a legal tryal; nay, if we were guilty we might by the Law challenge it, and it ought not to be denyed. Oh therefore, if you be Engliſhmen, or would evidence to the World, that you are no reſpecters of perſons, we are bold to challenge this juſtice of you, to free us from our impriſonment by the Lords Order, and bring us to a legal tryal, that by the Law we may le acquitted or condemned. This is pure Justice, ſuffer us not to periſh in priſon, while you may juſtly de<g ref="char:EOLhyphen"/>liver, leſt by your ſilence you contract upon your ſelves, the guilt of other mens oppreſſions.</hi>
+               </p>
+               <closer>
+                  <signed>Juſtice, Juſtice, Juſtice, is the earneſt prayer of <hi>John &amp; Mary Poyntz, Leonard Darby, John Harris, Iſabella Smith, William Pendred.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="articles">
+               <head>
+                  <hi>Articles exhibited upon the 11. of December 1648. unto the Right Honourable the Lord</hi> Fairfax <hi>his Excellency againſt</hi> John Brown <hi>Clerk of the Parliament.</hi> viz.</head>
+               <p n="1">1. HE the ſaid <hi>Iohn Browne</hi> (contrary to the great truſt repoſed in him) hath actually invaded, and indeavoured to overthrow the Fundamentall Lawes of this Kingdom; and by indirect, illegall, and arbitrary practices to delay, obſtruct, and pervert Juſtice, and infringe the Rights and Liberties of the People, to the great damage and detriment of the whole Kingdom, and divers perſons and families, <hi>viz.</hi> he the ſaid <hi>Iohn Brown</hi> by vertue of his Office, upon the 17. of Auguſt laſt, did draw up an Order to conceal a horrid Act of injuſtice done by a <hi>Court of Aldermen,</hi> ſitting in Guildhall London about December 1647. for their not bringing <hi>Henry Wollaston</hi> the Goaler of Newgate London, unto a legall triall for ma<g ref="char:EOLhyphen"/>ny high crimes of wilfull murder, and many other particulars of abſolute Felony charged upon the ſaid <hi>Wollaſton.</hi>
+               </p>
+               <p n="2">2. He the ſaid <hi>Iohn Brown</hi> (the better to ſtifle juſtice, and countenance the ſaid high crimes and injuſtice) did about the 24. of Oſtober laſt, cauſe one <hi>Richard Paris</hi> a late Member of the Army to be arreſted, and impriſoned in the Gate-houſe Weſtminſter, upon a vexatious Action of a thouſand pound at the Suit of the ſaid <hi>Iohn Brown,</hi> meerly becauſe Mr. <hi>Paris</hi> did proſecute the ſaid crimes and injuſtice, for the good of the Commonwealth.</p>
+               <p n="3">3. He the ſaid <hi>John Brown</hi> (utterly to deſtroy M. <hi>Paris</hi> for his fidelity to his Countrey) did at his own charge remove Mr. <hi>Paris</hi> unto the Kings Bench Priſon, and there did cauſe two vexatious Actions more to be laid upon M. <hi>Paris,</hi> viz. one in the name of the ſaid <hi>Iohn Brown</hi> of five thouſand pound, and the other in the name of one <hi>Glover,</hi> of fifty pound. And the ſaid <hi>John Brown</hi> did likewiſe give order unto the chief Bailiff of Weſtminſter, and to the Lord chief Juſtice <hi>Rolls</hi> that no Baile ſhould be taken for M. <hi>Paris</hi> untill he the ſaid <hi>John Brown</hi> had ſeen, and approved them, to the end that he might arreſt and impriſon them upon the like vexatious actions.</p>
+               <p n="4">4. He the ſaid <hi>Iohn Brown</hi> (further to expreſſe his countenancing of the ſaid crimes and injuſtice, and to moleſt <hi>M. Paris</hi> in the proſecution thereof) did about the 16. of November laſt, procure a ſpeciall Warrant to attach, and bring the perſon of M. <hi>Paris</hi> and three of his Witneſſes, viz. <hi>M. Clark, M. Neale,</hi> and <hi>M. Ienks,</hi> before the ſaid Lord chief Juſtice, and upon the ſaid Warrant M. <hi>Paris</hi> and M. <hi>Ienks</hi> were convented before the ſaid Lord chief Juſtice upon the 20. of November laſt. But the Lord chief Juſtice did ſend them both away, having neither Accuſer or Witneſſe to lay the leaſt crime unto their charge, onely the ſaid <hi>Iohn Brown</hi> who did falſly and maliciouſly ſay they were a company of Newgate birds.</p>
+               <p n="5">5. He the ſaid <hi>Iohn Brown</hi> (after that he had ſtifled Juſtice above 14. weeks, by countenancing the ſaid horrid crimes of abſolute Felony, and the aforeſaid injuſtice) did by vertue of his Office draw up an Order about the 20. of November laſt, to recommend the Examination of the ſaid crimes and injuſtice unto the Parties accuſed themſelves, <hi>viz.</hi> to the Court of Al<g ref="char:EOLhyphen"/>dermen of London, who are chiefly concerned in M. <hi>Paris</hi> his Appeale to the Houſe of Lords for their male adminiſtration of Juſtice.</p>
+               <closer>
+                  <signed>RICHARD PARIS.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
